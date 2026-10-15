@@ -1,20 +1,29 @@
 # Developer Handbook
-welcome to my developer handbook
-Codeshack week 1 task
-## About this project
-this project documents my learning journey of Git
 
-##Objectives
-learn Git fundamentals 
-practise tracking changes and commit changes
-understand branches and remote repositories
-## Learning goals
-build confidence using Git through command line
-underatand how Git tracks and manages changes
-learn to write
-practise maintaining an organised project
+Welcome to my Developer Handbook, created as part of the CodeShack Week 1 Git task.
+
+## About This Project
+
+This project documents my learning journey with Git, GitHub, and version control.
+
+## Objectives
+
+- Learn Git fundamentals and version control.
+- Practise tracking changes and making commits.
+- Understand branches and remote repositories.
+
+## Learning Goals
+
+- Build confidence using Git through the command line.
+- Understand how Git tracks and manages changes.
+- Learn to write clear and meaningful commit messages.
+- Practise maintaining an organised project.
 
 ## Project Structure
-- "README.md" - intro to the developer handbook
-- "git-notes.md"- Documentation of useful Git commands
 
+- `README.md` — Introduction to the Developer Handbook.
+- `git-notes.md` — Documentation of useful Git commands with examples.
+
+## Original Task
+
+Repository created for the CodeShack Week 1 Git task (`codeshack-nidhi-smvit`).
