@@ -33,3 +33,8 @@ downloads updates from a remote repository without merging them
 10.Git branch
 lists branches or creates a new branch
 
+11.Git switch
+switches from one branch to another 
+
+12.Git restore
+discards unstaged changes in a file
