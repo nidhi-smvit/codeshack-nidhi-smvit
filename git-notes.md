@@ -38,3 +38,10 @@ switches from one branch to another
 
 12.Git restore
 discards unstaged changes in a file
+
+steps
+1 check changes using git status
+2 stage a file using git add and REDAME.md
+3 commit changes using git commit -m 
+4 upload commits using git push
+5 check commit history using git log --oneline
